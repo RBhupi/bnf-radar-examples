@@ -44,6 +44,7 @@ project:
     - title: Scanning ARM Cloud Radar Investigations
       children:
         - file: notebooks/bnf-sacr-rhi.ipynb
+        - file: notebooks/bnf_dsd_radar_relationships_cband.ipynb
 site:
   options:
     logo: notebooks/images/arm_logo.png
