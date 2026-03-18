@@ -29,6 +29,7 @@ project:
         - file: notebooks/armor-sample-plots.ipynb
         - file: notebooks/bnf-insitu.ipynb
         - file: notebooks/ldquants_analysis.ipynb
+        - file: notebooks/bnf_dsd_radar_relationships_cband.ipynb
     - title: Extracted Radar Columns and In-Situ Sensors
       children:
         - file: notebooks/bnf-radclss.ipynb
@@ -45,7 +46,6 @@ project:
     - title: Scanning ARM Cloud Radar Investigations
       children:
         - file: notebooks/bnf-sacr-rhi.ipynb
-        - file: notebooks/bnf_dsd_radar_relationships_cband.ipynb
 site:
   options:
     logo: notebooks/images/arm_logo.png
